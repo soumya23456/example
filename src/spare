@@ -1,0 +1,8 @@
+   <h1>WELCOME!</h1>
+      <p>Click on button</p>
+      <input
+        type="button"
+        value="LogIn"
+        onclick="location.href='./loginpage';"
+      />
+      <link rel="stylesheet" type="text/css" href="/style.css" />
